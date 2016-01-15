@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[timurkham]]></title>
         <description><![CDATA[timurkham]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/timurkham/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 07:15:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 07:15:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/timurkham/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/timurkham/e52e128e-d045-4207-bfc6-7e57d4530058/index.html</link>
+            <guid isPermaLink="false">e52e128e-d045-4207-bfc6-7e57d4530058</guid>
+            <pubDate>Fri, 15 Jan 2016 07:14:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af0395e3-c224-445d-a47a-4398e9781bba.JPG">]]></description>
-            <link>undefined39a6d6e0-9fe2-42a7-9ae3-2502e3ff0455/index.html</link>
+            <link>https://thegrid.ai/timurkham/39a6d6e0-9fe2-42a7-9ae3-2502e3ff0455/index.html</link>
             <guid isPermaLink="false">39a6d6e0-9fe2-42a7-9ae3-2502e3ff0455</guid>
             <pubDate>Fri, 15 Jan 2016 07:12:20 GMT</pubDate>
         </item>
